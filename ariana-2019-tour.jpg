@@ -1,0 +1,47 @@
+PARA ACTUALIZAR LA PÁGINA EN GITHUB PAGES
+
+Este paquete ya está compilado. No necesitas instalar programas ni ejecutar
+comandos.
+
+1. Descomprime el archivo ZIP.
+2. Abre GitHub Desktop y selecciona el repositorio:
+   Ali_album
+3. Borra los archivos de la versión anterior de la carpeta local y copia TODO
+   el contenido de esta carpeta.
+   index.html debe quedar directamente en la raíz, no dentro de otra carpeta.
+4. En GitHub Desktop escribe un resumen, por ejemplo:
+   corregir imágenes de Mugsy
+5. Presiona "Commit to main" y después "Push origin".
+6. Espera uno o dos minutos mientras GitHub Pages actualiza la página.
+7. Si todavía aparece la versión anterior, presiona Ctrl + F5 o ábrela en una
+   ventana privada.
+
+La dirección normalmente será:
+https://rod2679.github.io/Ali_album/
+
+MÚSICA
+
+La página necesita conexión a internet porque usa el reproductor oficial de
+Spotify. Ali debe tocar "entrar y escuchar" una vez. Después, al cambiar de
+álbum o elegir una canción, la página intentará reproducirla automáticamente.
+
+El reproductor de Spotify ahora se ve en la esquina inferior. Si el navegador
+evita que el sonido empiece solo, basta con tocar el botón de reproducción
+dentro de ese reproductor. También hay un enlace "abrir Spotify".
+
+Las canciones de petal que todavía no se han publicado aparecen marcadas como
+"próximamente". La canción que ya tiene vista previa sí puede reproducirse.
+
+IMÁGENES
+
+Los 11 personajes que enviaste están incluidos dentro de la carpeta stickers.
+Cada canción muestra uno en miniatura y, al seleccionarla, aparece dentro de su
+tarjeta romántica. Algunas canciones usan dos personajes.
+
+IMPORTANTE: sube también la carpeta stickers completa. Si solamente reemplazas
+index.html, los personajes no podrán aparecer.
+
+CRÉDITOS
+
+Los créditos y licencias de las fotografías están incluidos en
+CREDITOS-FOTOGRAFIAS.txt.
